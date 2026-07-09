@@ -121,7 +121,16 @@ Successful communication confirms:
 * End-to-end Layer 3 connectivity
 
 
+Ping from accounts to delivery
+
+
+
 ![Ping](screenshots/02-ping-accounts-to-delivery.png)
+
+
+
+Ping from delivery to accounts
+
 
 
 ![Ping](screenshots/03-ping-delivery-to-accounts.png)
