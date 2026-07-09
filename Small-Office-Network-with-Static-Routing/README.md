@@ -20,6 +20,11 @@ The project demonstrates fundamental networking concepts including IPv4 addressi
 
 ## 🖥️ Network Topology
 
+
+![Topology](screenshots/00-topology-overview.png)
+
+
+
 ### Department 1 – Accounts
 
 * Network: **192.168.40.0/29**
@@ -87,6 +92,11 @@ The project demonstrates fundamental networking concepts including IPv4 addressi
 | PC3         | NIC       | 192.168.40.11/29 |
 | Router G0/1 | G0/1      | 192.168.40.14/29 |
 
+
+![Router interfaces](screenshots/01-show-ip-interface-brief.png)
+
+
+
 ---
 
 ## ⚙️ Configuration Summary
@@ -110,6 +120,14 @@ Successful communication confirms:
 * Functional router interface configuration
 * End-to-end Layer 3 connectivity
 
+
+![Ping](screenshots/02-ping-accounts-to-delivery.png)
+
+
+![Ping](screenshots/03.ping-delivery-to-accounts.png)
+
+
+
 ---
 
 ---
@@ -131,3 +149,11 @@ Through this project, I gained hands-on experience in:
 ## 📌 Project Status
 
 Completed
+
+
+## Author
+
+Dhanush.V
+
+Computer Science Engineer
+
