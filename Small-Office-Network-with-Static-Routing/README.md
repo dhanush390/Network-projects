@@ -124,7 +124,7 @@ Successful communication confirms:
 ![Ping](screenshots/02-ping-accounts-to-delivery.png)
 
 
-![Ping](screenshots/03.ping-delivery-to-accounts.png)
+![Ping](screenshots/03-ping-delivery-to-accounts.png)
 
 
 
